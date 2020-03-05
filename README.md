@@ -24,4 +24,14 @@ Este repositório tem como objetivo aglomerar os conteúdos disponibilizados em 
 - Onde insiro . vira ,
     Console.WriteLine(string.Format("Salário {0,0:(0##) ##}", salario));
 
+=============
+
 ## Vetor
+
+### Declaração do vetor
+    int[] array = new int[10];
+
+    int[] array = new int[]; {1, 2, 3}
+
+Sem definir valor
+    int[] array;
