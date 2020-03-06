@@ -6,7 +6,8 @@ namespace exercicio3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
+            aluno.nome = Console.ReadLine();
         }
     }
 }
