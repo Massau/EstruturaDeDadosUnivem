@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\Laboratorio\\Desktop\\EstruturaDeDadosUnivem\\disciplinaCSharp\\aula20200305\\estruturaFor\\estruturaFor.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
