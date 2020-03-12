@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Laboratorio\\Desktop\\EstruturaDeDadosUnivem\\disciplinaEstruturaDeDados\\aula20200305\\exercicio3\\exercicio3.csproj",
-      "projectName": "exercicio3",
-      "projectPath": "c:\\Users\\Laboratorio\\Desktop\\EstruturaDeDadosUnivem\\disciplinaEstruturaDeDados\\aula20200305\\exercicio3\\exercicio3.csproj",
+      "projectUniqueName": "C:\\Users\\Laboratorio\\Desktop\\EstruturaDeDadosUnivem\\disciplinaCSharp\\aula20200312\\Exercicio03\\Exercicio03.csproj",
+      "projectName": "Exercicio03",
+      "projectPath": "C:\\Users\\Laboratorio\\Desktop\\EstruturaDeDadosUnivem\\disciplinaCSharp\\aula20200312\\Exercicio03\\Exercicio03.csproj",
       "packagesPath": "C:\\Users\\Laboratorio\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Laboratorio\\Desktop\\EstruturaDeDadosUnivem\\disciplinaEstruturaDeDados\\aula20200305\\exercicio3\\obj\\",
+      "outputPath": "C:\\Users\\Laboratorio\\Desktop\\EstruturaDeDadosUnivem\\disciplinaCSharp\\aula20200312\\Exercicio03\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
